@@ -17,3 +17,4 @@ body, html {
     width: 490px;
     height: 490px;
     background-color: #ff0084; /* Pink color for particles */
+    position: absolute;
