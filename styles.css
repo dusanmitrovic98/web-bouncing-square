@@ -24,3 +24,4 @@ body, html {
 @keyframes moveParticle {
     0% {
         transform: translate(0, 0);
+    }
