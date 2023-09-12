@@ -26,3 +26,4 @@ body, html {
         transform: translate(0, 0);
     }
     50% {
+        transform: translate(100%, 100%);
