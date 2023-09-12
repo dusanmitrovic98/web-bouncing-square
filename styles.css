@@ -18,3 +18,4 @@ body, html {
     height: 490px;
     background-color: #ff0084; /* Pink color for particles */
     position: absolute;
+    animation: moveParticle 10s linear infinite, changeColor 5s alternate infinite;
