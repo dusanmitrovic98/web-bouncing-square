@@ -9,3 +9,4 @@ body, html {
 
 .particle-container {
     position: absolute;
+    width: 100%;
